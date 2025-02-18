@@ -33,3 +33,33 @@ C:\Users\DELL\source\repos\IGIMS eSuvidha\bin\Debug\System.Runtime.CompilerServi
 C:\Users\DELL\source\repos\IGIMS eSuvidha\obj\Debug\IGIMS eSuvidha.csproj.CopyComplete
 C:\Users\DELL\source\repos\IGIMS eSuvidha\obj\Debug\IGIMSeSuvidha.exe
 C:\Users\DELL\source\repos\IGIMS eSuvidha\obj\Debug\IGIMSeSuvidha.pdb
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\IGIMSeSuvidha.exe.config
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\IGIMSeSuvidha.exe
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\IGIMSeSuvidha.pdb
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\EPPlus.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Memory.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\EPPlus.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Drawing.Common.pdb
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Drawing.Common.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Memory.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMS eSuvidha.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMSeSuvidha.Properties.Resources.resources
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\CARDIOLOGY.ReadData.resources
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\CARDIOLOGY.registrationcs.resources
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMS eSuvidha.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMS eSuvidha.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMS eSuvidha.csproj.CopyComplete
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMSeSuvidha.exe
+C:\Users\DELL\source\repos\IGIMSeSuvidha\obj\Debug\IGIMSeSuvidha.pdb
